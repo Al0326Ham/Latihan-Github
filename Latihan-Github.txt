@@ -7,9 +7,13 @@ Github
 
 Istilah yang digunakan di Git:
  * repo adalah suatu folder project 
+ * commit adalah rekaman/snapshot dari suatu folder
+ * merge menggabungkan branch
+ * checkout berpindah ke commit
  * hash merupakan sebuah penanda unik pada sebuah comment
  * branch merupakan cabang bebas dari sebuah commit
  * remote adalah suatu sumber yang didalamnya terdapat repo
  * clone merupakan suatu teknik yang digunakan untuk mengambil repo dari remote
  * push bertujuan untuk commit ke repo 
  * pull bertujuan untuk mengambil commit dari repo
+
