@@ -4,3 +4,11 @@ Git
   * merupakaan salah satu software yang bisa melakukan VCS
 Github
   * Website/layanan cloud yang dapat digunakan untuk mengelola Git
+
+Istilah di Git dan Github:
+ * repo merupakan folder project kita
+ * commit adalah rekaman/snapshot dari suatu folder
+ * hash adalah penanda unik pada sebuah comment
+ * merge menggabungkan branch
+ * checkout berpindah ke commit
+ 
