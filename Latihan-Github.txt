@@ -1,0 +1,6 @@
+VCS
+  * merupakan sistem yang menyimpan dan mengelola rekaman perubahan dari source code
+Git
+  * merupakaan salah satu software yang bisa melakukan VCS
+Github
+  * Website/layanan cloud yang dapat digunakan untuk mengelola Git
