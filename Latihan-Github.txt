@@ -4,3 +4,12 @@ Git
   * merupakaan salah satu software yang bisa melakukan VCS
 Github
   * Website/layanan cloud yang dapat digunakan untuk mengelola Git
+
+Istilah yang digunakan di Git:
+ * repo adalah suatu folder project 
+ * hash merupakan sebuah penanda unik pada sebuah comment
+ * branch merupakan cabang bebas dari sebuah commit
+ * remote adalah suatu sumber yang didalamnya terdapat repo
+ * clone merupakan suatu teknik yang digunakan untuk mengambil repo dari remote
+ * push bertujuan untuk commit ke repo 
+ * pull bertujuan untuk mengambil commit dari repo
